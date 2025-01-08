@@ -3,7 +3,6 @@
 
 int main()
 {
-    std::cout << "Hello World! I am trung anh\n";
-    std::cout << "trung anh dz\n";
+    std::cout << "Hello World!i'm a newbie\n";
 }
 
